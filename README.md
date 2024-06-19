@@ -1,4 +1,4 @@
-# Hi there <img src="Assets/Hi.gif" width="29">, I'm Alok <img src="https://komarev.com/ghpvc/?username=CODEBRAKERBOY&color=brightgreen" alt="" align="right" />
+# Hi there <https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif>, I'm Alok <img src="https://komarev.com/ghpvc/?username=CODEBRAKERBOY&color=brightgreen" alt="" align="right" />
 
 
 ## Welcome to My GitHub Profile
