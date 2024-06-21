@@ -116,7 +116,7 @@
 
 ## 📈 My GitHub stats:
 
-| <img src="https://github-readme-stats.vercel.app/api?username=CODEBRAKERBOY&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=blueberry_duo"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=CODEBRAKERBOY&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODEBRAKERBOY&theme=blueberry_duo"/> |
 | --- | ---- |
 
 | <img src="https://github-profile-trophy.vercel.app/?username=CODEBRAKERBOY&theme=darkhub&column=9" alt="My GitHub stats"> |
