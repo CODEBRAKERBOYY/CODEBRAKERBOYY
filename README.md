@@ -87,12 +87,12 @@
     <tr>
       <td>
           <a href="https://www.linkedin.com/in/alok-yadav-755673297/" target="_blank" title="Visit my Linkedin">
-            <img src="Assets/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
           </a>
       </td>
       <td>
           <a href="https://twitter.com/" target="_blank" title="Visit my twitter">
-            <img src="https://raw.githubusercontent.com/ALOKYADAV/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="40" height="40"/>
           </a>
       </td>
       <td>
