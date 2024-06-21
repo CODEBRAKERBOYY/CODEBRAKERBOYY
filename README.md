@@ -23,7 +23,7 @@
       </td>
       <td>
         <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank" title="View my C++ Programming repo(s)"> 
-          <img src="Assets/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+          <img src="https://camo.githubusercontent.com/5cbf52740afc324c4f1a132543c6de32bf96ef976e482aca9d374589dd1b3d4d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" alt="cplusplus" width="40" height="40"/> 
         </a>
       </td>
       <td>
@@ -68,7 +68,7 @@
       </td>
       <td>
         <a href="" target="_blank" title="View my html5 repo(s)">
-          <img src="Assets/html5-original.svg" alt="html5" width="40" height="40"/>
+          <img src="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" alt="html5" width="40" height="40"/>
         </a>
       </td>
       <td>
