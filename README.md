@@ -92,7 +92,7 @@
       </td>
       <td>
           <a href="https://twitter.com/" target="_blank" title="Visit my twitter">
-            <img src="Assets/twitter-original.svg" alt="twitter" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/ALOKYADAV/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="40" height="40"/>
           </a>
       </td>
       <td>
@@ -102,7 +102,7 @@
       </td>
       <td>
           <a href="https://www.instagram.com/iam_.abhir/" target="_blank" title="Visit my Instagram">
-            <img src="Assets/logo.svg" alt="instagram" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
           </a>
       </td>
       <td>
