@@ -1,3 +1,4 @@
+![CODEBRAKERBOY_header](https://user-images.githubusercontent.com/25181517/117185899-9ccba680-adda-11eb-9003-7c25da391b99.PNG)
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -28,7 +29,7 @@
       </td>
       <td>
         <a href="https://github.com/CODEBRAKERBOY/" target="_blank" title="View my repos">
-          <img src="Assets/git-scm-icon.svg" alt="git" width="40" height="40"/>
+          <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -48,7 +49,7 @@
       </td>
       <td>
         <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=java&sort=" target="_blank" title="View my Java repo(s)">
-          <img src="Assets/java-original.svg" alt="java" width="40" height="40"/>
+          <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="50" height="50"/>
         </a>
       </td>
       <td>
@@ -63,7 +64,7 @@
       </td>
       <td>
         <a href="" target="_blank" title="View my Python repo(s)">
-          <img src="Assets/python-original.svg" alt="python" width="40" height="40"/>
+          <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="40" height="40"/>
         </a>
       </td>
       <td>
