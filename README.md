@@ -73,7 +73,7 @@
         </a>
       </td>
       <td>
-        <img src="Assets/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
+        <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="vscode" width="40" height="40"/>
       </td>
     </tr>
   </table>
