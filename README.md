@@ -34,7 +34,7 @@
       </td>
       <td>
         <a href="https://github.com/CODEBRAKERBOY/" target="_blank" title="View my repos">
-          <img src="Assets/github-original.svg" alt="github" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="github" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -44,7 +44,7 @@
       </td>
       <td>
         <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=shell&sort=" target="_blank" title="View my Shell Scripting repo(s)">
-          <img src="Assets/bash-plain.svg" alt="bash" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="bash" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -54,7 +54,7 @@
       </td>
       <td>
         <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my R programming repo(s)">
-          <img src="Assets/r-original.svg" alt="r" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" alt="r" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -117,7 +117,7 @@
       </td>
       <td>
           <a href="https://www.facebook.com/" target="_blank" title="Visit my facebook">
-            <img src="Assets/facebook-original.svg" alt="facebook" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" alt="facebook" width="40" height="40"/>
           </a>
       </td>
   </table>
