@@ -107,7 +107,7 @@
       </td>
       <td>
          <a href="https://discord.gg/xrSCjwhR6R" target="_blank" title="Join My Discord Channel">
-          <img src="Assets/discordapp-tile.svg" alt="discord" width="40" height="40" />
+          <img src="https://www.svgrepo.com/show/452188/discord.svg" alt="discord" width="40" height="40" />
          </a>
       </td>
       <td>
