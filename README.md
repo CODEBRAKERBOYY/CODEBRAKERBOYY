@@ -79,7 +79,16 @@
   </table>
 </div>
 
+
+## All DSA Badges @LeetCode
+
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+
+
+
+
 ## 🌐 Connect with me though:
+
 
 <br/>
 
