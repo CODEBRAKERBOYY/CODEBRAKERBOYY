@@ -87,10 +87,10 @@
 
 ## All DSA Badges @Coding ninjas
 
-<img src="https://files.codingninjas.in/code-crusader-4-26994.svg" width="55px"></img>
-<img src="https://files.codingninjas.in/consistent-coder-2-26973.svg" width="55px"></img>
-<img src="https://files.codingninjas.in/diligent-developer-3-26989.svg" width="55px"></img>
-<img src="https://files.codingninjas.in/leaderboard-legend-2-27001.svg" width="55px"></img>
+<img src="https://files.codingninjas.in/code-crusader-4-26994.svg" width="85px"></img>
+<img src="https://files.codingninjas.in/consistent-coder-2-26973.svg" width="65px"></img>
+<img src="https://files.codingninjas.in/diligent-developer-3-26989.svg" width="75px"></img>
+<img src="https://files.codingninjas.in/leaderboard-legend-2-27001.svg" width="65px"></img>
 
 
 
