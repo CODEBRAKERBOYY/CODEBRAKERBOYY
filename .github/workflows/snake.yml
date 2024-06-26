@@ -1,0 +1,55 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight
+  workflow_dispatch:  # Allows manual trigger from GitHub Actions UI
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: dist/snake.svg
+
+      - name: Upload Snake
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist/snake.svg
+
+  update-readme:
+    needs: generate-snake
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v3
+
+      - name: Download Snake
+        uses: actions/download-artifact@v3
+        with:
+          name: snake
+          path: dist
+
+      - name: Update README
+        run: |
+          sed -i '/<!--START_SECTION:snake-->/,<!--END_SECTION:snake-->/d' README.md
+          echo '<!--START_SECTION:snake-->' >> README.md
+          echo '![Snake animation](dist/snake.svg)' >> README.md
+          echo '<!--END_SECTION:snake-->' >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update snake animation'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
