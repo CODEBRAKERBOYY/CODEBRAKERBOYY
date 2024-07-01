@@ -92,6 +92,10 @@
 <img src="https://files.codingninjas.in/diligent-developer-3-26989.svg" width="75px"></img>
 <img src="https://files.codingninjas.in/leaderboard-legend-2-27001.svg" width="65px"></img>
 <img src="https://files.codingninjas.in/samurai-30760.svg" width="65px"></img>
+<img src="https://files.codingninjas.in/ace-coder-1-26995.svg" width="65px"></img>
+<img src="https://files.codingninjas.in/legendary-1-27005.svg" width="85px"></img>
+
+
 
 
 
