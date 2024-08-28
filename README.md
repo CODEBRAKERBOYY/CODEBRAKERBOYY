@@ -119,7 +119,7 @@
           </a>
       </td>
       <td>
-         <a href="https://discord.gg/xrSCjwhR6R" target="_blank" title="Join My Discord Channel">
+         <a href="https://discord.gg/" target="_blank" title="Join My Discord Channel">
           <img src="https://www.svgrepo.com/show/452188/discord.svg" alt="discord" width="50" height="50" />
          </a>
       </td>
