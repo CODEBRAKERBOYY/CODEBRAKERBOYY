@@ -3,6 +3,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Alok!</h1>
+         <img src="https://komarev.com/ghpvc/?username=CODEBRAKERBOY&color=brightgreen" alt="" align="right" />
 
 
 ## Welcome to My GitHub Profile
