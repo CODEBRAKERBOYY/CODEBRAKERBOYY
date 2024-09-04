@@ -20,7 +20,7 @@
     <tr>
       <td>
         <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=c&sort=" target="_blank" title="View my C Programming repo(s)"> 
-          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png" alt="c" width="50" height="50"/> 
+          <img src="https://img.icons8.com/?size=256&id=40670&format=png" alt="c" width="50" height="50"/> 
         </a>
       </td>
       <td>
