@@ -20,7 +20,7 @@
     <tr>
       <td>
         <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=c&sort=" target="_blank" title="View my C Programming repo(s)"> 
-          <img src="https://img.icons8.com/?size=256&id=40670&format=png" alt="c" width="50" height="50"/> 
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="c" width="45" height="45"/> 
         </a>
       </td>
       <td>
@@ -40,7 +40,7 @@
       </td>
       <td>
         <a href="https://github.com/CODEBRAKERBOY/" target="_blank" title="View my repos">
-          <img src="Assets/markdown-original.svg" alt="markdown" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Markdown-Dark.svg" alt="markdown" width="40" height="40"/>
         </a>
       </td>
       <td>
