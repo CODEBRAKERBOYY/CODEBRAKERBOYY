@@ -20,12 +20,12 @@
     <tr>
       <td>
         <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=c&sort=" target="_blank" title="View my C Programming repo(s)"> 
-          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="c" width="45" height="45"/> 
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="c" width="40" height="40"/> 
         </a>
       </td>
       <td>
         <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank" title="View my C++ Programming repo(s)"> 
-          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> 
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> 
         </a>
       </td>
       <td>
