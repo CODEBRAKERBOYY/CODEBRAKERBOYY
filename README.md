@@ -65,7 +65,7 @@
       </td>
       <td>
         <a href="" target="_blank" title="View my Python repo(s)">
-          <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="40" height="40"/>
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/>
         </a>
       </td>
       <td>
