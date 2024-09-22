@@ -25,7 +25,7 @@
       </td>
       <td>
         <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank" title="View my C++ Programming repo(s)"> 
-          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> 
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="50" height="50"/> 
         </a>
       </td>
       <td>
@@ -35,7 +35,7 @@
       </td>
       <td>
         <a href="https://github.com/CODEBRAKERBOY/" target="_blank" title="View my repos">
-          <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="github" width="40" height="40"/>
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="50" height="50"/>
         </a>
       </td>
       <td>
@@ -50,7 +50,7 @@
       </td>
       <td>
         <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=java&sort=" target="_blank" title="View my Java repo(s)">
-          <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="50" height="50"/>
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="50" height="50"/>
         </a>
       </td>
       <td>
