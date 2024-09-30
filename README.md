@@ -59,8 +59,8 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my R programming repo(s)">
-          <img src="Assets/rstudio-original.svg" alt="r-studio" width="40" height="40"/>
+        <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my Docker repo(s)">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="r-studio" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -69,8 +69,8 @@
         </a>
       </td>
       <td>
-        <a href="" target="_blank" title="View my html5 repo(s)">
-          <img src="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" alt="html5" width="40" height="40"/>
+        <a href="" target="_blank" title="View my Sql repo (s)">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65"
         </a>
       </td>
       <td>
