@@ -148,7 +148,7 @@
 
 ## 🐱‍💻 Hacktober badges:
 
-[ ![@CODEBRAKERBOYY's Holopin board](https://holopin.me/CODEBRAKERBOYY) ](https://holopin.io/@CODEBRAKERBOYY) 
+[ ![@CODEBRAKERBOYY's Holopin board](https://holopin.me/CODEBRAKERBOY) ](https://holopin.io/@CODEBRAKERBOY) 
 
 
 <!-- Snake Game -->
