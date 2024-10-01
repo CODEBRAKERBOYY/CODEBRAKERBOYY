@@ -1,9 +1,9 @@
-![CODEBRAKERBOY_header](https://user-images.githubusercontent.com/25181517/117185899-9ccba680-adda-11eb-9003-7c25da391b99.PNG)
+![CODEBRAKERBOYY_header](https://user-images.githubusercontent.com/25181517/117185899-9ccba680-adda-11eb-9003-7c25da391b99.PNG)
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Alok!</h1>
-         <img src="https://komarev.com/ghpvc/?username=CODEBRAKERBOY&color=brightgreen" alt="" align="right" />
+         <img src="https://komarev.com/ghpvc/?username=CODEBRAKERBOYY&color=brightgreen" alt="" align="right" />
 
 
 ## Welcome to My GitHub Profile
@@ -19,42 +19,42 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=c&sort=" target="_blank" title="View my C Programming repo(s)"> 
+        <a href="https://github.com/CODEBRAKERBOYY?tab=repositories&q=&type=&language=c&sort=" target="_blank" title="View my C Programming repo(s)"> 
           <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="c" width="40" height="40"/> 
         </a>
       </td>
       <td>
-        <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank" title="View my C++ Programming repo(s)"> 
+        <a href="https://github.com/CODEBRAKERBOYY?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank" title="View my C++ Programming repo(s)"> 
           <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="50" height="50"/> 
         </a>
       </td>
       <td>
-        <a href="https://github.com/CODEBRAKERBOY/" target="_blank" title="View my repos">
+        <a href="https://github.com/CODEBRAKERBOYY/" target="_blank" title="View my repos">
           <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/CODEBRAKERBOY/" target="_blank" title="View my repos">
+        <a href="https://github.com/CODEBRAKERBOYY/" target="_blank" title="View my repos">
           <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="50" height="50"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/CODEBRAKERBOY/" target="_blank" title="View my repos">
+        <a href="https://github.com/CODEBRAKERBOYY/" target="_blank" title="View my repos">
           <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Markdown-Dark.svg" alt="markdown" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=shell&sort=" target="_blank" title="View my Shell Scripting repo(s)">
+        <a href="https://github.com/CODEBRAKERBOYY?tab=repositories&q=&type=&language=shell&sort=" target="_blank" title="View my Shell Scripting repo(s)">
           <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="bash" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=java&sort=" target="_blank" title="View my Java repo(s)">
+        <a href="https://github.com/CODEBRAKERBOYY?tab=repositories&q=&type=&language=java&sort=" target="_blank" title="View my Java repo(s)">
           <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="50" height="50"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my R programming repo(s)">
+        <a href="https://github.com/CODEBRAKERBOYY?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my R programming repo(s)">
           <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" alt="r" width="40" height="40"/>
         </a>
       </td>
@@ -139,21 +139,21 @@
 
 ## 📈 My GitHub stats:
 
-| <img src="https://github-readme-stats.vercel.app/api?username=CODEBRAKERBOY&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODEBRAKERBOY&theme=blueberry_duo"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=CODEBRAKERBOYY&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODEBRAKERBOYY&theme=blueberry_duo"/> |
 | --- | ---- |
 
-| <img src="https://github-profile-trophy.vercel.app/?username=CODEBRAKERBOY&theme=darkhub&column=9" alt="My GitHub stats"> |
+| <img src="https://github-profile-trophy.vercel.app/?username=CODEBRAKERBOYY&theme=darkhub&column=9" alt="My GitHub stats"> |
 | --- |
-| ![CODEBRAKERBOY](https://github-readme-activity-graph.vercel.app/graph?username=CODEBRAKERBOY&theme=react-dark) |
+| ![CODEBRAKERBOYY](https://github-readme-activity-graph.vercel.app/graph?username=CODEBRAKERBOYY&theme=react-dark) |
 
 ## 🐱‍💻 Hacktober badges:
 
-[ ![@CODEBRAKERBOY's Holopin board](https://holopin.me/CODEBRAKERBOY) ](https://holopin.io/@CODEBRAKERBOY) 
+[ ![@CODEBRAKERBOYY's Holopin board](https://holopin.me/CODEBRAKERBOYY) ](https://holopin.io/@CODEBRAKERBOYY) 
 
 
 <!-- Snake Game -->
 <div align ="center">
-  <img src="https://raw.githubusercontent.com/CODEBRAKERBOY/CODEBRAKERBOY/output/github-snake-dark.svg" alt="ERROR:404 XoX" title="Ohh No, it's eating my contributions from the graph" >
+  <img src="https://raw.githubusercontent.com/CODEBRAKERBOYY/CODEBRAKERBOYY/output/github-snake-dark.svg" alt="ERROR:404 XoX" title="Ohh No, it's eating my contributions from the graph" >
 </div>
 
 
