@@ -5,6 +5,7 @@
          width="45" /> I'm Alok!</h1>
          <img src="https://komarev.com/ghpvc/?username=CODEBRAKERBOYY&color=brightgreen" alt="" align="right" />
 
+
 ## Welcome to My GitHub Profile
 
 - 🏫 I'm currently studying as 3rd year CSE student at [Psit Engineering College](https://www.psit.ac.in// "visit my college website").
@@ -79,13 +80,11 @@
   </table>
 </div>
 
+
 ## All DSA Badges @LeetCode
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="65px"></img>
 
-## 🏅 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/alok73?theme=dark&font=Abel&ext=activity)
 
 ## All DSA Badges @Coding ninjas
 
@@ -97,7 +96,13 @@
 <img src="https://files.codingninjas.in/ace-coder-1-26995.svg" width="65px"></img>
 <img src="https://files.codingninjas.in/legendary-1-27005.svg" width="85px"></img>
 
+
+
+
+
+
 ## 🌐 Connect with me through:
+
 
 <br/>
 
@@ -137,7 +142,19 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=CODEBRAKERBOYY&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODEBRAKERBOYY&theme=blueberry_duo"/> |
 | --- | ---- |
 
-| <img src="https://github-profile-trophy.vercel.app/?username=CODEBRAKERBOYY&theme=darkhub&column=9" alt="
+| <img src="https://github-profile-trophy.vercel.app/?username=CODEBRAKERBOYY&theme=darkhub&column=9" alt="My GitHub stats"> |
+| --- |
+| ![CODEBRAKERBOYY](https://github-readme-activity-graph.vercel.app/graph?username=CODEBRAKERBOYY&theme=react-dark) |
+
+## 🐱‍💻 Hacktober badges:
+
+[ ![@CODEBRAKERBOYY's Holopin board](https://holopin.me/CODEBRAKERBOY) ](https://holopin.io/@CODEBRAKERBOY) 
+
+
+<!-- Snake Game -->
+<div align ="center">
+  <img src="https://raw.githubusercontent.com/CODEBRAKERBOYY/CODEBRAKERBOYY/output/github-snake-dark.svg" alt="ERROR:404 XoX" title="Ohh No, it's eating my contributions from the graph" >
+</div> i want to add leet code state in this readme file
 
 
 
