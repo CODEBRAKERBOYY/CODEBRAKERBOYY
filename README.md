@@ -154,7 +154,7 @@
 <!-- Snake Game -->
 <div align ="center">
   <img src="https://raw.githubusercontent.com/CODEBRAKERBOYY/CODEBRAKERBOYY/output/github-snake-dark.svg" alt="ERROR:404 XoX" title="Ohh No, it's eating my contributions from the graph" >
-</div> i want to add leet code state in this readme file
+</div> 
 
 
 
