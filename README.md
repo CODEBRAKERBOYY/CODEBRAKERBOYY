@@ -86,6 +86,9 @@
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="65px"></img>
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/alok73?theme=dark&font=Abel&ext=activity)
+
+
 ## All DSA Badges @Coding ninjas
 
 <img src="https://files.codingninjas.in/code-crusader-4-26994.svg" width="85px"></img>
