@@ -93,7 +93,7 @@
 
 <img src="https://files.codingninjas.in/code-crusader-4-26994.svg" width="85px"></img>
 <img src="https://files.codingninjas.in/consistent-coder-2-26973.svg" width="65px"></img>
-<img src="https://files.codingninjas.in/diligent-developer-3-26989.svg" width="75px"></img>
+<img src="https://files.codingninjas.in/diligent-developer-4-26990.svg" width="85px"></img>
 <img src="https://files.codingninjas.in/leaderboard-legend-2-27001.svg" width="65px"></img>
 <img src="https://files.codingninjas.in/samurai-30760.svg" width="65px"></img>
 <img src="https://files.codingninjas.in/ace-coder-1-26995.svg" width="65px"></img>
