@@ -149,7 +149,7 @@
 | --- |
 | ![CODEBRAKERBOYY](https://github-readme-activity-graph.vercel.app/graph?username=CODEBRAKERBOYY&theme=react-dark) |
 
-## 🐱‍💻 Hacktober badges:
+## 🧿 Hacktober badges:
 
 [ ![@CODEBRAKERBOYY's Holopin board](https://holopin.me/CODEBRAKERBOY) ](https://holopin.io/@CODEBRAKERBOY) 
 
