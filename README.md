@@ -84,6 +84,8 @@
 ## All DSA Badges @LeetCode
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="65px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="65px"></img>
+
 
 
 
