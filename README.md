@@ -147,7 +147,9 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=CODEBRAKERBOYY&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODEBRAKERBOYY&theme=blueberry_duo"/> |
 | --- | ---- |
 
-| <img src="https://github-profile-trophy.vercel.app/?username=CODEBRAKERBOYY&theme=darkhub&column=9" alt="My GitHub stats"> |
+![](https://github-profile-trophy.vercel.app/?username=CODEBRAKERBOYY&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) |
 | --- |
 | ![CODEBRAKERBOYY](https://github-readme-activity-graph.vercel.app/graph?username=CODEBRAKERBOYY&theme=react-dark) |
 
