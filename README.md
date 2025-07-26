@@ -8,7 +8,7 @@
 
 ## Welcome to My GitHub Profile
 
-- 🏫 I'm currently studying as 3rd year CSE student at [Psit Engineering College](https://www.psit.ac.in// "visit my college website").
+- 🏫 I'm currently studying as 4th year CSE student at [Psit Engineering College](https://www.psit.ac.in// "visit my college website").
 - 🤩 I'm down into projects and collaborations.
 
 ## 💻 I'm familiar with the following tech stacks:
