@@ -151,7 +151,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) |
 | --- |
-| ![CODEBRAKERBOYY](https://github-readme-activity-graph.vercel.app/graph?username=CODEBRAKERBOYY&theme=react-dark) |
+[![CODEBRAKERBOYY](https://github-readme-activity-graph.vercel.app/graph?username=CODEBRAKERBOYY&bg_color=000000&color=0284c7&line=2563eb&point=0ea5e9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🧿 Hacktober badges:
 
