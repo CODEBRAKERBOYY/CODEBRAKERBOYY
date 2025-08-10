@@ -74,6 +74,11 @@
         </a>
       </td>
       <td>
+          <a href="https://github.com/CODEBRAKERBOYY?tab=repositories&q=&type=&language=java&sort=" target="_blank" title="View my django(s)">
+          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="50" height="50"/>
+        </a>
+      </td>
+      <td>
         <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="vscode" width="40" height="40"/>
       </td>
     </tr>
