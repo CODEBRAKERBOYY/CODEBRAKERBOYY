@@ -80,6 +80,16 @@
       </td>
       <td>
         <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="vscode" width="40" height="40"/>
+          <td>
+        <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my php repo(s)">
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" alt="r-studio" width="40" height="40"/>
+        </a>
+      </td>
+         <td>
+        <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my php repo(s)">
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg" alt="r-studio" width="40" height="40"/>
+        </a>
+      </td>        
       </td>
     </tr>
   </table>
