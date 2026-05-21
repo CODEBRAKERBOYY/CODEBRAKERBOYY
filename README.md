@@ -5,7 +5,7 @@
          width="50" /> I'm Alok!</h1>
          <img src="https://komarev.com/ghpvc/?username=CODEBRAKERBOYY&color=brightgreen" alt="" align="right" />
 
-## 🏆 GitHub Certs:
+## 🏆 GitHub Certs on progress:
 
 | <img width="164" height="165" alt="image" src="https://github.com/user-attachments/assets/c469ba62-5ed3-4453-8300-0b39b7ccce9f" />| <img width="164" height="165" alt="image" src="https://github.com/user-attachments/assets/29e20810-ce31-47c1-935a-b259de18b155" /> | <img width="164" height="165" alt="image" src="https://github.com/user-attachments/assets/62c1fe8a-f5bf-4b9f-af09-a25f6979cfe6" /> | <img width="164" height="165" alt="image" src="https://github.com/user-attachments/assets/6ade2995-04f6-44f4-935a-ff6c4cdb2bac" /> |
 | :---: | :---: | :---: | :---: |
