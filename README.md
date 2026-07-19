@@ -6,7 +6,8 @@
          <img src="https://komarev.com/ghpvc/?username=CODEBRAKERBOYY&color=brightgreen" alt="" align="right" />
 
 
-## 🏆 GitHub Certs on progress:
+
+## 🎖️ Microsoft & GitHub Certifications
 
 <p align="left">
   <img width="164" height="165" alt="DP-800 SQL AI Developer Associate" src="https://trainocate.com.my/wp-content/uploads/2026/04/SQL-AI-Developer-Associate-Exam-DP-800-.png" />
