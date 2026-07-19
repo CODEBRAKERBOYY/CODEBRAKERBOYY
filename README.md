@@ -5,11 +5,14 @@
          width="50" /> I'm Alok!</h1>
          <img src="https://komarev.com/ghpvc/?username=CODEBRAKERBOYY&color=brightgreen" alt="" align="right" />
 
+
 ## 🏆 GitHub Certs on progress:
 
-| <img width="164" height="165" alt="image" src="https://github.com/user-attachments/assets/c469ba62-5ed3-4453-8300-0b39b7ccce9f" />| <img width="164" height="165" alt="image" src="https://github.com/user-attachments/assets/29e20810-ce31-47c1-935a-b259de18b155" /> | <img width="164" height="165" alt="image" src="https://github.com/user-attachments/assets/62c1fe8a-f5bf-4b9f-af09-a25f6979cfe6" /> | <img width="164" height="165" alt="image" src="https://github.com/user-attachments/assets/6ade2995-04f6-44f4-935a-ff6c4cdb2bac" /> |
-| :---: | :---: | :---: | :---: |
-
+<p align="left">
+  <img width="164" height="165" alt="DP-800 SQL AI Developer Associate" src="https://trainocate.com.my/wp-content/uploads/2026/04/SQL-AI-Developer-Associate-Exam-DP-800-.png" />
+  <a href="https://learn.microsoft.com/en-us/users/alokyadav-7040/credentials/7fbdb63e79b40b1e?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank"><img width="164" height="165" alt="DP-600 Fabric Analytics Engineer Associate" src="https://vel.co.jp/wp-content/uploads/2025/02/Fabric-Analytics-Engineer-Associate-Badge.png" /></a>
+  <a href="https://learn.microsoft.com/en-in/users/alokyadav-7040/credentials/b33876c8b5153025" target="_blank"><img width="164" height="165" alt="DP-700 Fabric Data Engineer Associate" src="https://images.credly.com/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" /></a>
+</p>
 
 ## Welcome to My GitHub Profile
 
@@ -111,10 +114,6 @@
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="65px"></img>
 
 
-
-
-
-
 ## All DSA Badges @Coding ninjas
 
 <img src="https://files.codingninjas.in/code-crusader-4-26994.svg" width="85px"></img>
@@ -124,10 +123,6 @@
 <img src="https://files.codingninjas.in/samurai-30760.svg" width="65px"></img>
 <img src="https://files.codingninjas.in/ace-coder-1-26995.svg" width="65px"></img>
 <img src="https://files.codingninjas.in/legendary-1-27005.svg" width="85px"></img>
-
-
-
-
 
 
 ## 🌐 Connect with me through:
@@ -185,8 +180,4 @@
 <!-- Snake Game -->
 <div align ="center">
   <img src="https://raw.githubusercontent.com/CODEBRAKERBOYY/CODEBRAKERBOYY/output/github-snake-dark.svg" alt="ERROR:404 XoX" title="Ohh No, it's eating my contributions from the graph" >
-</div> 
-
-
-
-
+</div>
